@@ -10,7 +10,7 @@ Firma prowadząca sklep internetowy zgłosiła następujący problem: Nasi konsu
 
 ## Opis
 
-Projekt składał się z dwóch etapów. Pierwszy polegał głównie na analizie dostarczonych danych. Znajduje się ona w notatnikach "analiza_danych". Są dwie wersje analizy z dwóch powodów: konieczność poprawy pierwszego etapu oraz analiza uzupełnionych danych (pierwsze posiadały braki oraz błędy logiczne). W ramach drugiego etapu natomiast zostały wytrenowane dwa modele - podstawowy i docelowy (uczenie_modeli) oraz zostało stworzone środowisko do realizacji eksperymentu A/B. Więcej informacji znajduje się w dokumentacjach poszczególnych etapów
+Projekt składał się z dwóch etapów. Pierwszy polegał głównie na analizie dostarczonych danych. Znajduje się ona w notatnikach "analiza_danych". Są dwie wersje analizy z dwóch powodów: konieczność poprawy pierwszego etapu oraz analiza uzupełnionych danych (pierwotne posiadały braki oraz błędy logiczne). W ramach drugiego etapu natomiast zostały wytrenowane dwa modele - podstawowy i docelowy (uczenie_modeli) oraz zostało stworzone środowisko do realizacji eksperymentu A/B. Więcej informacji znajduje się w dokumentacjach poszczególnych etapów
 
 ## Wykorzystane pakiety
   <li> pandas
